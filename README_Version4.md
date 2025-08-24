@@ -1,8 +1,11 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#F77F00;">Bhanuprakash Reddy K</span>!</h1>
+<h1 align="center">
+  <span style="font-size:40px;">👋</span> Hey there, I'm 
+  <span style="color:#F77F00;">Bhanuprakash Reddy K</span>!
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F77F00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;MERN+Stack+Engineer+🚀;Open+Source+Contributor+🌍;Tech+Explorer+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F77F00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+💻;MERN+Stack+Engineer+🚀;Open+Source+Contributor+🌍;Tech+Explorer+🔥" />
 </p>
 
 ---
@@ -56,6 +59,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/bhanreddy/bhanreddy/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
