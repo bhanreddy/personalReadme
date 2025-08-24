@@ -1,27 +1,29 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,18,30&height=200&section=header&text=Bhanuprakash%20Reddy%20K%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77F00&height=200&section=header&text=Bhanuprakash%20Reddy%20K%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=F77F00&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;MERN+Stack+Engineer+🚀;Open+Source+Contributor+🌍;Tech+Explorer+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F77F00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;MERN+Stack+Engineer+🚀;Open+Source+Contributor+🌍;Tech+Explorer+🔥" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-Hi, I'm **Bhanuprakash Reddy K**, a passionate **Computer Science Engineer** and **MERN Stack Developer**.  
-I specialize in **building scalable web applications and APIs**, thrive on tackling complex challenges,  
-and believe strongly in **lifelong learning**.  
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220px" align="right" />
+</p>
 
-Currently exploring:  
-- 🤖 **Machine Learning**  
-- ⚙️ **DevOps**  
-- ☁️ **Cloud Computing**  
+Hi, I'm **Bhanuprakash Reddy K** 👋, a passionate **Computer Science Engineer** and **MERN Stack Developer**.  
+I **specialize** in building **scalable web applications & APIs**, love **solving challenging problems**,  
+and firmly believe in **lifelong learning**. 🌱  
 
-Let’s connect and **build something amazing together!** ✨  
+🔍 **Currently Exploring**  
+- 🤖 Machine Learning  
+- ⚙️ DevOps  
+- ☁️ Cloud Computing  
+
+✨ Let’s connect and **build something amazing together!** 🚀  
 
 ---
 
@@ -35,6 +37,8 @@ Let’s connect and **build something amazing together!** ✨
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 </p>
 
+---
+
 ### 🔹 Web Development  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,6 +48,8 @@ Let’s connect and **build something amazing together!** ✨
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
+
+---
 
 ### 🔹 Databases & Tools  
 <p align="center">
@@ -59,15 +65,14 @@ Let’s connect and **build something amazing together!** ✨
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- Snake Contribution Animation -->
 <p align="center">
   <img src="https://github.com/bhanreddy/bhanreddy/blob/output/github-contribution-grid-snake.svg"/>
 </p>
@@ -111,7 +116,6 @@ Let’s connect and **build something amazing together!** ✨
 
 ---
 
-<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,18,30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77F00&height=120&section=footer"/>
 </p>
