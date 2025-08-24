@@ -66,9 +66,19 @@ Check out my GitHub stats below to see my recent activity and top contributions.
 
 ## 🌍 Languages & Hobbies
 
-When I'm not coding, I enjoy browsing new tech trends, exploring side projects, and unwinding with a good movie or some cooking.
+### 🗣️ Languages I Speak
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/Telugu-Native-green?style=for-the-badge&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/Kannada-Fluent-orange?style=for-the-badge&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/Hindi-Conversational-red?style=for-the-badge&logo=appveyor"/>
+</p>
 
-**Languages I speak:** Telugu | Kannada | English | Hindi
+### ✨ Hobbies
+- 💻 Building side projects
+- 🍿 Watching movies & anime
+- 👨‍🍳 Cooking & baking
+- 📚 Reading tech blogs & books
 
 ---
 
