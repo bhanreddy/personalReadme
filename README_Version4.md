@@ -1,30 +1,41 @@
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77F00&height=200&section=header&text=Bhanuprakash%20Reddy%20K%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,18,30&height=200&section=header&text=Bhanuprakash%20Reddy%20K%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F77F00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;MERN+Stack+Engineer+🚀;Open+Source+Contributor+🌍;Tech+Explorer+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=F77F00&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;MERN+Stack+Engineer+🚀;Open+Source+Contributor+🌍;Tech+Explorer+🔥" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-Hi, I'm **Bhanuprakash Reddy K**, a passionate **Computer Science Engineer** and **MERN Stack Developer**. With a strong focus on building scalable web applications and APIs, I thrive on tackling complex challenges. I'm a firm believer in lifelong learning and am currently expanding my skills in **Machine Learning, DevOps, and Cloud Computing**. Let's connect and build something great together!
+Hi, I'm **Bhanuprakash Reddy K**, a passionate **Computer Science Engineer** and **MERN Stack Developer**.  
+I specialize in **building scalable web applications and APIs**, thrive on tackling complex challenges,  
+and believe strongly in **lifelong learning**.  
+
+Currently exploring:  
+- 🤖 **Machine Learning**  
+- ⚙️ **DevOps**  
+- ☁️ **Cloud Computing**  
+
+Let’s connect and **build something amazing together!** ✨  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 
-### **Languages**
+### 🔹 Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 </p>
 
-### **Web Development**
+### 🔹 Web Development  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -34,7 +45,7 @@ Hi, I'm **Bhanuprakash Reddy K**, a passionate **Computer Science Engineer** and
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### **Databases & Tools**
+### 🔹 Databases & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -45,46 +56,43 @@ Hi, I'm **Bhanuprakash Reddy K**, a passionate **Computer Science Engineer** and
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-Check out my GitHub stats below to see my recent activity and top contributions. Feel free to explore my repositories to see what I'm currently working on!
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<!-- Snake Contribution Animation -->
 <p align="center">
   <img src="https://github.com/bhanreddy/bhanreddy/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 🌍 Languages & Hobbies
+## 🌍 Languages & Hobbies  
 
-### 🗣️ Languages I Speak
+### 🗣️ Languages I Speak  
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Telugu-Native-green?style=for-the-badge&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Kannada-Fluent-orange?style=for-the-badge&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Hindi-Conversational-red?style=for-the-badge&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Telugu-Native-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kannada-Fluent-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hindi-Conversational-red?style=for-the-badge"/>
 </p>
 
-### ✨ Hobbies
-- 💻 Building side projects
-- 🍿 Watching movies & anime
-- 👨‍🍳 Cooking & baking
-- 📚 Reading tech blogs & books
+### ✨ Hobbies  
+- 💻 Building side projects  
+- 🍿 Watching movies & anime  
+- 👨‍🍳 Cooking & baking  
+- 📚 Reading tech blogs & books  
 
 ---
 
-## 🌐 Connect With Me
-
-Feel free to connect with me on LinkedIn or send me an email. I'm always open to discussing new projects and opportunities.
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/bhanreddy">
@@ -103,6 +111,7 @@ Feel free to connect with me on LinkedIn or send me an email. I'm always open to
 
 ---
 
+<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F77F00&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,18,30&height=120&section=footer"/>
 </p>
