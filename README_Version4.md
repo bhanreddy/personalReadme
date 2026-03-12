@@ -1,38 +1,64 @@
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║              HEADER BLOCK               ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--         HEADER — TOP WAVE (markdown)   -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:0a0200,65:200800,100:F77F00&height=340&section=header&text=BHANUPRAKASH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=REDDY%20K%20%E2%80%94%20Co-Founder%20%26%20Tech%20Lead%20%40%20NexSyrus%20Pvt.%20Ltd.&descAlignY=62&descSize=19&descColor=F77F00&stroke=F77F00&strokeWidth=1.5&rotate=0"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:180600,80:8B3A00,100:F77F00&height=140&section=header)
 
 </div>
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--         HEADER — NAME (frozen SVG)     -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=800&color=F77F00&center=true&vCenter=true&multiline=false&width=900&height=45&lines=Architecting+multi-tenant+SaaS+%E2%80%94+one+commit+at+a+time+%F0%9F%94%A5;SchoolIMS+%7C+Supabase+RLS+%7C+React+Native+%7C+Node.js+%7C+PostgreSQL;Co-Founder+building+NexSyrus+from+0+%E2%86%92+1+in+Telangana%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Ship+fast.+Architect+right.+Iterate+always.+%E2%9A%A1%EF%B8%8F" />
+![name](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=58&duration=1&pause=9999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=940&height=90&lines=Bhanuprakash+Reddy+K)
+
+![title](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=9999999&color=F77F00&center=true&vCenter=true&repeat=false&width=940&height=32&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+Co-Founder+%26+Tech+Lead+%40+NexSyrus+Pvt.+Ltd.+%7C+Telangana%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80)
 
 </div>
 
 <br/>
 
-<!-- ── IDENTITY STRIP ── -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--         HEADER — ROLE TICKER           -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="6">
+![ticker](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=F77F00&center=true&vCenter=true&width=900&height=38&lines=%E2%9A%A1+Architecting+SchoolIMS+%E2%80%94+Multi-Tenant+SaaS+from+0+%E2%86%92+Production;%F0%9F%9B%A1%EF%B8%8F+Supabase+RLS+%7C+PostgreSQL+%7C+React+Native+%7C+Node.js+%7C+Expo;%F0%9F%94%A5+Full+Stack+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+Cloud+%C2%B7+System+Design;%F0%9F%9A%80+Ship+fast.+Architect+right.+Iterate+always.)
+
+</div>
+
+<br/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--         HEADER — IDENTITY BADGES       -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+![b1](https://img.shields.io/badge/Co--Founder-NexSyrus%20Pvt.%20Ltd.-F77F00?style=flat-square&labelColor=0d0d0d)&nbsp;![b2](https://img.shields.io/badge/Tech%20Lead-Full%20Stack%20%26%20Mobile-0d0d0d?style=flat-square&labelColor=F77F00)&nbsp;![b3](https://img.shields.io/badge/SaaS%20Architect-Multi--Tenant%20RLS-F77F00?style=flat-square&labelColor=0d0d0d)&nbsp;![b4](https://img.shields.io/badge/Telangana-India-0d0d0d?style=flat-square&labelColor=F77F00)&nbsp;![b5](https://img.shields.io/badge/Status-Open%20to%20Work-0d0d0d?style=flat-square&labelColor=238636)
+
+</div>
+
+<br/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--         HEADER — STAT COUNTERS         -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+
+<table border="0" cellpadding="16" cellspacing="0">
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/CO--FOUNDER-NexSyrus%20Pvt.%20Ltd.-F77F00?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=F77F00"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/TECH%20LEAD-Full%20Stack%20%26%20Mobile-000000?style=for-the-badge&logo=githubactions&logoColor=F77F00&labelColor=000000&color=111111"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/SAAS%20ARCHITECT-Multi--Tenant%20%7C%20Supabase%20RLS-F77F00?style=for-the-badge&logo=postgresql&logoColor=000000&labelColor=F77F00"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📍%20TELANGANA-India-000000?style=for-the-badge&labelColor=111111&color=111111"/>
-</td>
+<td align="center"><h2>🏗️&nbsp;4+</h2><sub><b>Products Shipped</b></sub></td>
+<td align="center"><h2>🌐&nbsp;5</h2><sub><b>Live Domains</b></sub></td>
+<td align="center"><h2>🐛&nbsp;16</h2><sub><b>Bugs Killed</b></sub></td>
+<td align="center"><h2>📱&nbsp;Expo</h2><sub><b>React Native</b></sub></td>
+<td align="center"><h2>☁️&nbsp;0→1</h2><sub><b>SaaS Built</b></sub></td>
 </tr>
 </table>
 
@@ -40,32 +66,21 @@
 
 <br/>
 
-<!-- ── QUICK STATS STRIP ── -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--         HEADER — SOCIAL ROW            -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
 <div align="center">
 
-```
-┌─────────────────┬──────────────────┬──────────────────┬──────────────────┬─────────────────┐
-│  🏗️  Products   │   🌐  Domains    │  🐛  Bugs Slain  │  📱  Mobile App  │  ☁️  SaaS Type  │
-│      4+         │       5          │       16         │   React Native   │  Multi-Tenant   │
-└─────────────────┴──────────────────┴──────────────────┴──────────────────┴─────────────────┘
-```
-
-</div>
-
-<br/>
-
-<!-- ── SOCIAL ROW ── -->
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-bhanreddy-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)](https://github.com/bhanreddy)
+[![GitHub](https://img.shields.io/badge/GitHub-%40bhanreddy-FFFFFF?style=for-the-badge&logo=github&logoColor=0d0d0d&labelColor=FFFFFF)](https://github.com/bhanreddy)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-F77F00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=F77F00)](https://www.linkedin.com/in/bhanuprakashreddygaru/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F77F00?style=for-the-badge&logo=linkedin&logoColor=0d0d0d&labelColor=F77F00)](https://www.linkedin.com/in/bhanuprakashreddygaru/)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-Hire%20Me-000000?style=for-the-badge&logo=gmail&logoColor=F77F00&labelColor=111111)](mailto:reddybhanu283@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Work%20With%20Me-0d0d0d?style=for-the-badge&logo=gmail&logoColor=F77F00&labelColor=0d0d0d)](mailto:reddybhanu283@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B91%2093475%2056547-F77F00?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=F77F00)](https://wa.me/919347556547)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2093475%2056547-F77F00?style=for-the-badge&logo=whatsapp&logoColor=0d0d0d&labelColor=F77F00)](https://wa.me/919347556547)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=bhanreddy&style=for-the-badge&color=111111&label=PROFILE+VIEWS&labelColor=000000)](https://github.com/bhanreddy)
+[![Views](https://komarev.com/ghpvc/?username=bhanreddy&style=for-the-badge&color=F77F00&label=VIEWS&labelColor=0d0d0d)](https://github.com/bhanreddy)
 
 </div>
 
@@ -133,25 +148,25 @@ const bhanu = {
 **[ FRONTEND & MOBILE ]**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,figma&amp;theme=dark" />
 </p>
 
 **[ BACKEND & DATABASE ]**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,prisma,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,prisma,redis&amp;theme=dark" />
 </p>
 
 **[ DEVOPS & TOOLING ]**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,firebase&amp;theme=dark" />
 </p>
 
 **[ LANGUAGES ]**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,cpp,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,cpp,bash&amp;theme=dark" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -264,9 +279,9 @@ Stack  →  Node.js · FCM · PostgreSQL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&show_icons=true&theme=transparent&hide_border=true&title_color=F77F00&icon_color=F77F00&text_color=ffffff&bg_color=0d0d0d&ring_color=F77F00&border_radius=16&include_all_commits=true&count_private=true&custom_title=Bhanu's+GitHub+Metrics" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhanreddy&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=F77F00&amp;icon_color=F77F00&amp;text_color=ffffff&amp;bg_color=0d0d0d&amp;ring_color=F77F00&amp;border_radius=16&amp;include_all_commits=true&amp;count_private=true&amp;custom_title=Bhanu's+GitHub+Metrics" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&theme=transparent&hide_border=true&background=0d0d0d&ring=F77F00&fire=F77F00&currStreakLabel=F77F00&sideLabels=ffffff&dates=888888&stroke=F77F00&border_radius=16" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanreddy&amp;theme=transparent&amp;hide_border=true&amp;background=0d0d0d&amp;ring=F77F00&amp;fire=F77F00&amp;currStreakLabel=F77F00&amp;sideLabels=ffffff&amp;dates=888888&amp;stroke=F77F00&amp;border_radius=16" height="180"/>
 
 </div>
 
@@ -274,14 +289,14 @@ Stack  →  Node.js · FCM · PostgreSQL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&layout=donut&theme=transparent&hide_border=true&title_color=F77F00&text_color=ffffff&bg_color=0d0d0d&border_radius=16&langs_count=8&custom_title=Languages+by+Commit" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanreddy&amp;layout=donut&amp;theme=transparent&amp;hide_border=true&amp;title_color=F77F00&amp;text_color=ffffff&amp;bg_color=0d0d0d&amp;border_radius=16&amp;langs_count=8&amp;custom_title=Languages+by+Commit" height="200"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanreddy&bg_color=0d0d0d&color=F77F00&line=F77F00&point=ffffff&area=true&hide_border=true&border_radius=16&area_color=F77F00&custom_title=Contribution+Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanreddy&amp;bg_color=0d0d0d&amp;color=F77F00&amp;line=F77F00&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;border_radius=16&amp;area_color=F77F00&amp;custom_title=Contribution+Activity"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -294,27 +309,27 @@ Stack  →  Node.js · FCM · PostgreSQL
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_SAAS_FOUNDER-Multi--Tenant_Platform_0_to_1-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/🏆_SAAS_FOUNDER-Multi--Tenant_Platform_0_to_1-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🔥_MULTI--PRODUCT-4+_Products_Shipped-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/🔥_MULTI--PRODUCT-4+_Products_Shipped-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/⚡_FULL_STACK-Mobile_+_Backend_+_DB-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/⚡_FULL_STACK-Mobile_+_Backend_+_DB-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🛡️_RLS_ARCHITECT-Supabase_Multi--Tenant_Security-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/🛡️_RLS_ARCHITECT-Supabase_Multi--Tenant_Security-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🐛_BUG_SLAYER-16_Critical_FCM_Bugs_Fixed-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/🐛_BUG_SLAYER-16_Critical_FCM_Bugs_Fixed-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🚀_PROD_SHIPPED-Founder_Console_Live-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/🚀_PROD_SHIPPED-Founder_Console_Live-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🌐_5_DOMAINS-NexSyrus_Web_Ecosystem-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/🌐_5_DOMAINS-NexSyrus_Web_Ecosystem-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🏫_EDTECH-School_Digitalization_SaaS-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/🏫_EDTECH-School_Digitalization_SaaS-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📱_REACT_NATIVE-Expo_Multi--Build_Pipeline-F77F00?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/📱_REACT_NATIVE-Expo_Multi--Build_Pipeline-F77F00?style=for-the-badge&amp;labelColor=0d0d0d"/>
 
 <br/><br/>
 
@@ -368,12 +383,12 @@ Stack  →  Node.js · FCM · PostgreSQL
 </td>
 <td align="center" width="200">
 <h3>🍳</h3>
-<b>Weekend Chef</b><br/>
+<b>Professional Chef</b><br/>
 <sub>Cooking · Baking · Experimenting with regional recipes</sub>
 </td>
 <td align="center" width="200">
 <h3>📺</h3>
-<b>Anime & Films</b><br/>
+<b>TFI & Films</b><br/>
 <sub>Strategic storytelling · Visual world-building · Character arcs</sub>
 </td>
 <td align="center" width="200">
@@ -424,5 +439,5 @@ Stack  →  Node.js · FCM · PostgreSQL
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:F77F00,50:1a0500,100:000000&height=120&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&amp;color=0:F77F00,50:1a0500,100:000000&amp;height=120&amp;section=footer&amp;reversal=true"/>
 </div>
